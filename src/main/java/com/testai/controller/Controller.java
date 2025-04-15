@@ -18,7 +18,7 @@ import java.io.IOException;
 public class Controller {
 
     private static final String API_URL = "https://dashscope.aliyuncs.com/api/v1/apps/87064923d41f491599c6c6372f0a5a1d/completion"; // 替换为实际API地址
-    private static final String API_KEY = "sk-fe463dfb74674c45921ca18fdd4dbfd0"; // 替换为您的API密钥
+    private static final String API_KEY = ""; // 替换为您的API密钥
 
     @FXML
     private TextField questionField;
